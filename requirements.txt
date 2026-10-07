@@ -1,0 +1,5 @@
+requests>=2.31
+pybase64>=1.3
+fastapi>=0.110
+uvicorn>=0.29
+gradio>=5.0
